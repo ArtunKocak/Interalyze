@@ -1,1 +1,5 @@
+# Basic Jekyll configuration
+theme: minima
+title: Your Site Title
+description: This is a description of your site.
 
